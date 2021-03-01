@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jenkins.docker.demo</groupId>
   <artifactId>docker-jenkins-integration</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   
   <build> 
   <finalName>docker-jenkins-integration-sample</finalName>
